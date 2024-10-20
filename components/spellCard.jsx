@@ -1,4 +1,3 @@
-import Point from "./Points";
 
 export default function SpellCard ({ spell }) {
     return (
