@@ -1,4 +1,3 @@
-
 export default function SpellCard ({ spell }) {
     return (
         <div className="bg-cyan-600 border-orange-600">
